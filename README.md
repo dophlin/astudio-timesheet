@@ -82,6 +82,9 @@ To set up the project locally:
 8. Login to the system using **Login API:** `POST /api/login`
 9. Use the generated token for other API calls. You can refer to the API documentation.
 
+**Note:** The application generates anything that is required to set up the database.
+So there is no requirement for addition SQL file here.
+
 ## License
 
 This project is licensed under the MIT License.
